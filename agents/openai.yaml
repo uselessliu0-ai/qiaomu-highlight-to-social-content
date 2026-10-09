@@ -1,0 +1,4 @@
+interface:
+  display_name: "Qiaomu 高亮内容生产"
+  short_description: "把 YouTube 高亮和批注制成字幕图及社交平台文案"
+  default_prompt: "读取这个视频在 Qiaomu/Obsidian 中的高亮和批注，先让我确认选句，再制作字幕图和背景化发布文案。"
